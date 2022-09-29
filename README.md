@@ -6,6 +6,7 @@
 - CSS:3
 - Vite
 - ReactJS
+- Tailwind
 
 ---
 ![preview](onepage-1.png)
