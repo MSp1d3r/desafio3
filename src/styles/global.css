@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  @apply transition-all;
+}
+
+.font1 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.bg-vermelho {
+  @apply bg-red-600;
+}
+
+.bg-roxo {
+  @apply bg-purple-600;
+}
+
+.bg-laranja {
+  @apply bg-orange-600;
+}
+
+.bg-amarelo {
+  @apply bg-yellow-600;
+}
+
+.bg-azul {
+  @apply bg-blue-600;
+}
+
+.bg-verde {
+  @apply bg-green-600;
+}
